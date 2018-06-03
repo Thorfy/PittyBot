@@ -85,4 +85,4 @@ bot.on('message', function(message){
 
 })
 
-bot.login('')
+bot.login('YOUR DISCORD BOT TOKEN')
